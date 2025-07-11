@@ -1,4 +1,4 @@
-# gloader (v.1.0.0)
+# <img src="https://golang.org/favicon.ico" width="24" alt="Go logo"> gloader (v.1.0.0)
 
 A lightweight, flexible environment variable loader for Go.
 
@@ -75,7 +75,7 @@ Lines starting with `#` are ignored. Whitespace is trimmed.
 
 ---
 
-## 🪪 License
+## License
 
 MIT License © 2025 RecursionExcursion(https://github.com/RecursionExcursion)
 
