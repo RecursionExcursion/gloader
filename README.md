@@ -4,7 +4,7 @@ A lightweight, flexible environment variable loader for Go.
 
 Supports loading from `.env` files or any `io.Reader` source (such as strings, network streams, or in-memory data). 
 
-[![Go](https://pkg.go.dev/badge/github.com/yourusername/gloader.svg)](https://pkg.go.dev/github.com/yourusername/gloader)
+[![Go](https://pkg.go.dev/badge/github.com/RecursionExcursion/gloader.svg)](https://pkg.go.dev/github.com/RecursionExcursion/gloader)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
